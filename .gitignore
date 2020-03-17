@@ -1,0 +1,15 @@
+.project
+.settings/
+.classpath
+target/
+.DS_store
+**/*/.DS_store
+/bin/
+catalina.base_IS_UNDEFINED/
+APP_HOME_IS_UNDEFINED/
+user-web/.springBeans
+.cache-main
+.cache-tests
+.idea/
+*/*.iml
+*.iml
